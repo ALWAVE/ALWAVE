@@ -1,4 +1,4 @@
-[![ALWAVE](https://github.com/ALWAVE/ALWAVE/blob/main/assets/alwave_back.png)](https://t.me/apicxzz)
+[![ALWAVE](https://github.com/ALWAVE/ALWAVE/blob/main/assets/alwave_header.png)](https://t.me/apicxzz)
 <h3 align="left">My Technology stack: </h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
 <!---
