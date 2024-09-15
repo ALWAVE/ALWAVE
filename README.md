@@ -17,10 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ALWAVE&show_icons=true&theme=radical" alt="stats2" /></a>
 </p>
 <!---Git hub my repositories --->
-<h2 align=center>🔖 Some of my Repositories</h2>
+<h2 align=center>🔗 Some of my Repositories</h2>
 
 <p align="center">
-  <a align="center" href="https://github.com/ALWAVE/AW.WAREHOUSE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ALWAVE&repo=AW.WAREHOUSE&theme=react&bg_color=1F222E&title_color=8C63F7&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a align="center" href="https://github.com/ALWAVE/AW.WAREHOUSE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ALWAVE&repo=AW.WAREHOUSE&theme=react&bg_color=1F222E&title_color=8C63F7&icon_color=F8D866&hide_border=true&show_icons=true"></a>
 </p>
 <!---Git hub my all repositories --->
 <p align="center">
