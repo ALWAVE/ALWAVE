@@ -8,8 +8,16 @@
 <p align="center">I'm a highly motivated student developer with a strong foundation in .NET C# development.<br> I'm passionate about building responsive and accessible web applications that provide users with a seamless experience. <br>I'm committed to continuously expanding my knowledge and skills to become a valuable asset to any team. I'm excited to contribute to challenging projects and learn from experienced professionals.</p>
 <br>
 <p align="center">Do you have any questions for me? Write to me <a href="https://t.me/apicxzz" rel="noopener noreferrer" target="_blank">link!</a></p>
-<h3 align="center">My programming language: </h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
+<h3 align="center">My programming languages:</h3>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+</p>
 
 <!---Git hub my stats --->
 <p align="center">
