@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/ALWAVE/Waveify">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ALWAVE&repo=AW.WAREHOUSE&theme=react&bg_color=1F222E&title_color=8C63F7&icon_color=F8D866&hide_border=true&show_icons=true">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ALWAVE&repo=WAVEIFY&theme=react&bg_color=1F222E&title_color=8C63F7&icon_color=F8D866&hide_border=true&show_icons=true">
   </a>
   <a href="https://github.com/ALWAVE/LandReclamation">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ALWAVE&repo=LandReclamation&theme=react&bg_color=1F222E&title_color=8C63F7&icon_color=F8D866&hide_border=true&show_icons=true">
