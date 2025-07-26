@@ -49,7 +49,9 @@
   <a href="https://github.com/ALWAVE">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALWAVE&layout=compact&theme=tokyonight&show_icons=true" alt="stats2" /></a>
 </p>
-
+<h2 align=center>My Curriculum Vitae
+<img width="1414" height="2000" alt="Git ArtemUkraincev-CV-Example ENG" src="https://github.com/user-attachments/assets/6f4b67aa-51be-41a2-b1e5-056d5fcdc8af" />
+</h2>
 <!---
 ALWAVE/ALWAVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
